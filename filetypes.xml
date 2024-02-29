@@ -3,8 +3,6 @@
     <extensionMap>
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
